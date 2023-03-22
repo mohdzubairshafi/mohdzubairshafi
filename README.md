@@ -4,7 +4,7 @@ Hi 👋 My name is Mohd Zubair Ansari
 Full Stack (MERN) web Developer
 -------------------------------
 
-I am Experienced JavaScript Developer. Skilled in JavaScript, React.js, Front-end Development, And Tailwind-CSS. Strong engineering professional with a Bachelor of Technology - B.Tech focused in Computer Science And Engineering from University School of Management Studies, GGSIPU.
+I am Experienced JavaScript Developer. Skilled in JavaScript, React.js, Front-end Development, And Tailwind-CSS. Strong engineering professional with a Bachelor of Technology - B.Tech focused in Computer Science And Engineering from University School of Information, Communication and Technology, GGSIPU.
 
 * 🌍  I'm based in delhi , India
 * 🧠  I'm learning ML and AI
